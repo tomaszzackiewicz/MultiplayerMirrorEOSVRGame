@@ -1,0 +1,38 @@
+{
+  "ProductName": "UnityVRGame",
+  "ProductId": "0fab3f1ebe85487b9565621f3978a39f",
+  "ProductVersion": "1.0",
+  "imported": true,
+  "Clients": [
+    {
+      "Value": {
+        "ClientId": "xyza7891jIYYhyrW71rwk4xfx0tRwGAW",
+        "ClientSecret": "dFa13/WBsOHRiat4qGnP+M6P5NgeHtX8JqGpVsYJkdo",
+        "EncryptionKey": "64DE35A1D241CCBCA7713EB3BCC82D1FE6C191FDA50FD3787A08BF565BFC12AC"
+      },
+      "Name": "Client"
+    }
+  ],
+  "Environments": {
+    "Deployments": [
+      {
+        "Value": {
+          "SandboxId": {
+            "Value": "6e3417d7aaaa4a4b881f9f9ca283f6ea"
+          },
+          "DeploymentId": "b5650e68ee3249c9ad235b4e83ee792f"
+        },
+        "Name": "Deployment"
+      }
+    ],
+    "Sandboxes": [
+      {
+        "Value": {
+          "Value": "6e3417d7aaaa4a4b881f9f9ca283f6ea"
+        },
+        "Name": "Sandbox"
+      }
+    ]
+  },
+  "schemaVersion": "1.0"
+}
